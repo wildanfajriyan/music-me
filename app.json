@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.uwil.musicme"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "67a6ac3d-52f0-4f9f-88c1-d0f883d15364"
+      }
+    },
+    "owner": "uwil"
   }
 }
